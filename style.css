@@ -210,9 +210,9 @@ h1{
 }
 .logo-container{ */
 
-    display: flex;
+    /* display: flex;
     align-items: center;
-}
+} */
 #footer {
     background-color: #f0f0f0;
     padding: 50px 0;
